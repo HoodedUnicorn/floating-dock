@@ -2,7 +2,9 @@
 "shell-version": [
     "40",
     "41",
-    "42"
+    "42",
+    "43",
+    "44"
 ],
 "uuid": "floating-dock@nandoferreira_prof@hotmail.com",
 "name": "Floating Dock",
